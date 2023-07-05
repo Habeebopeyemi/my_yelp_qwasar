@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myyield-dev-182656-authRole",
+      "UnauthRoleArn": "arn:aws:iam::792693808595:role/amplify-myyield-dev-182656-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::792693808595:role/amplify-myyield-dev-182656-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-myyield-dev-182656-deployment",
+      "UnauthRoleName": "amplify-myyield-dev-182656-unauthRole",
+      "StackName": "amplify-myyield-dev-182656",
+      "StackId": "arn:aws:cloudformation:eu-north-1:792693808595:stack/amplify-myyield-dev-182656/d5403d00-19c6-11ee-9faf-06619c5d2cd6",
+      "AmplifyAppId": "d1w8fw9ja1vepj"
+    },
+    "categories": {
+      "auth": {
+        "myyieldf66450d6": {}
+      },
+      "api": {
+        "RestaurantAPI": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
