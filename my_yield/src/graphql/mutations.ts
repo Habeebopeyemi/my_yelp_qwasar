@@ -12,6 +12,7 @@ export const createRestaurant = /* GraphQL */ `
       name
       description
       city
+      owner
       createdAt
       updatedAt
       __typename
@@ -28,6 +29,7 @@ export const updateRestaurant = /* GraphQL */ `
       name
       description
       city
+      owner
       createdAt
       updatedAt
       __typename
@@ -44,6 +46,7 @@ export const deleteRestaurant = /* GraphQL */ `
       name
       description
       city
+      owner
       createdAt
       updatedAt
       __typename

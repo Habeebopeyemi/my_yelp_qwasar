@@ -9,6 +9,7 @@ export const getRestaurant = /* GraphQL */ `
       name
       description
       city
+      owner
       createdAt
       updatedAt
       __typename
@@ -27,6 +28,7 @@ export const listRestaurants = /* GraphQL */ `
         name
         description
         city
+        owner
         createdAt
         updatedAt
         __typename

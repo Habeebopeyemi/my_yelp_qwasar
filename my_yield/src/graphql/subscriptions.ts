@@ -11,6 +11,7 @@ export const onCreateRestaurant = /* GraphQL */ `
       name
       description
       city
+      owner
       createdAt
       updatedAt
       __typename
@@ -26,6 +27,7 @@ export const onUpdateRestaurant = /* GraphQL */ `
       name
       description
       city
+      owner
       createdAt
       updatedAt
       __typename
@@ -41,6 +43,7 @@ export const onDeleteRestaurant = /* GraphQL */ `
       name
       description
       city
+      owner
       createdAt
       updatedAt
       __typename
